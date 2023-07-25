@@ -99,3 +99,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshc="nvim ~/.zshrc"
+alias vimc="cd ~/.config/nvim;nvim ."
+alias fishc="cd ~/.config/fish;nvim ."
+alias i3c="cd ~/.config/i3;nvim ."
+alias hxc="cd ~/.config/helix;nvim ."
+alias signal="flatpak run org.signal.Signal"
