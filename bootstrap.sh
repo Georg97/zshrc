@@ -8,4 +8,6 @@ mkdir -p ~/.oh-my-zsh/plugins/copydir && \
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 
+cp ./themes/gtheme.zsh-theme ~/.oh-my-zsh/themes/gtheme.zsh-theme
+
 cp ./.zshrc ~/.zshrc
